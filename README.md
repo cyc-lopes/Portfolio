@@ -3,6 +3,8 @@
 ## MIT xPRO Portfolio. 
 This portfolio contains some program projects that I ahve completed during the initial 10 weeks of the Full-Stack Programming Course offered through MIT
 
+If you would like to check out my portfolio using GitHub opages, please click this link: https://cyc-lopes.github.io/Portfolio/
+
 ### Description. 
 1. PacMan Replicator
 2. Following Eyes Project
