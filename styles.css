@@ -1,0 +1,78 @@
+.container {
+  text-align: center;
+}
+
+.centered {
+  display: inline-block;
+  text-align: left;
+}
+
+/* Defines the color palette */
+:root {
+  --primary-color: #cb997e;
+  --secondary-color: #ddbea9;
+  --third-color: #ffe8d6;
+  --accent-color: #b7b7a4;
+  --fifth-color: #a5a58d;
+  --sixth-color: #6b705c;
+}
+
+/* Uses the color pallet */
+body {
+  background-color: #a5a58d;
+  font-family: "Archivo", sans-serif;
+}
+
+h1 {
+}
+
+header {
+  background-color: #6b705c;
+  font-family: "Archivo", sans-serif;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link.active {
+  background-color: white !important;
+  color: black !important;
+}
+
+.col-md-8.centered {
+  padding-top: 40px;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+.nav-item {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.lead {
+  margin-top: 40px;
+  font-size: 18px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: black;
+}
+
+.fs-4 {
+  font-family: "Archivo", sans-serif !important;
+}
